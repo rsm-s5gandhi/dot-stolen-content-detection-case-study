@@ -87,13 +87,13 @@ Combining model evaluation + fairness analysis + business tradeoffs results in s
 ## 📊 Dashboards Preview
 
 ### Dashboard 1 — Detection Quality & Ecosystem Harm
-![Dashboard 1](tableau/Dashboard_1.png)
+![Dashboard 1](/Dashboard_1.png)
 
 ### Dashboard 2 — Creator Fairness & Exposure Tradeoffs
-![Dashboard 2](tableau/Dashboard_2.png)
+![Dashboard 2](/Dashboard_2.png)
 
 ### Dashboard 3 — Temporal Trends, Model Drift & CTR Fairness
-![Dashboard 3](tableau/Dashboard_3.png)
+![Dashboard 3](/Dashboard_3.png)
 
 
 ## 📝 Disclaimer
