@@ -1,0 +1,4 @@
+Policy,Stolen_Impressions_Share,Original_Exposure_Index
+Baseline,33.57349981067023,100.0
+Policy A: Hide Predicted Stolen,35.54974368390533,61.60633587677473
+Policy B: Downrank 50%,34.340997652585735,80.80316793838736
