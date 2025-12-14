@@ -87,6 +87,7 @@ Time-series monitoring is essential to detect model drift early.
 Combining model evaluation + fairness analysis + business tradeoffs results in strong, actionable product recommendations.
 
 📊 Dashboards Preview
+
 Dashboard 1 — Detection Quality & Ecosystem Harm
 Confusion matrix, post mix, harm by country, and policy tradeoffs.
 
@@ -98,6 +99,5 @@ Actual vs predicted stolen trends, CTR gap analysis, and stolen share by country
 
 
 📝 Disclaimer
-
 DOT is a fictional platform created solely for educational and portfolio purposes.
 All data used in this project is synthetic and does not represent any real users, real companies, or internal systems.
