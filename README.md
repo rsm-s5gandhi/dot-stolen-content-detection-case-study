@@ -87,13 +87,13 @@ Combining model evaluation + fairness analysis + business tradeoffs results in s
 ## 📊 Dashboards Preview
 
 ### Dashboard 1 — Detection Quality & Ecosystem Harm
-![Dashboard 1](/Dashboard_1.png)
+![Dashboard](https://github.com/rsm-s5gandhi/dot-stolen-content-detection-case-study/raw/3563ce9beeef9ed3ed9044e2fc96ac6f5affd398/Dashboard_1.jpg)
 
 ### Dashboard 2 — Creator Fairness & Exposure Tradeoffs
-![Dashboard 2](/Dashboard_2.png)
+![Dashboard 3](https://github.com/rsm-s5gandhi/dot-stolen-content-detection-case-study/raw/3563ce9beeef9ed3ed9044e2fc96ac6f5affd398/Dashboard_3.jpg)
 
 ### Dashboard 3 — Temporal Trends, Model Drift & CTR Fairness
-![Dashboard 3](/Dashboard_3.png)
+![Dashboard 2](https://github.com/rsm-s5gandhi/dot-stolen-content-detection-case-study/raw/3563ce9beeef9ed3ed9044e2fc96ac6f5affd398/Dashboard_2.jpg)
 
 
 ## 📝 Disclaimer
