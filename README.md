@@ -2,6 +2,19 @@
 This project applies data science, policy modeling, and product analytics to analyze and mitigate stolen content on DOT, a fictional social media platform created solely for educational and portfolio purposes.
 The goal is to evaluate content detection accuracy, understand ecosystem harm, measure creator-level fairness, and test ranking policy interventions designed to reduce stolen content while preserving a healthy creator ecosystem.
 
+
+## 📊 Dashboards Preview
+
+### Dashboard 1 — Detection Quality & Ecosystem Harm
+![Dashboard](https://github.com/rsm-s5gandhi/dot-stolen-content-detection-case-study/raw/3563ce9beeef9ed3ed9044e2fc96ac6f5affd398/Dashboard_1.jpg)
+
+### Dashboard 2 — Creator Fairness & Exposure Tradeoffs
+![Dashboard 3](https://github.com/rsm-s5gandhi/dot-stolen-content-detection-case-study/raw/3563ce9beeef9ed3ed9044e2fc96ac6f5affd398/Dashboard_3.jpg)
+
+### Dashboard 3 — Temporal Trends, Model Drift & CTR Fairness
+![Dashboard 2](https://github.com/rsm-s5gandhi/dot-stolen-content-detection-case-study/raw/3563ce9beeef9ed3ed9044e2fc96ac6f5affd398/Dashboard_2.jpg)
+
+
 ## 📌 Project Overview
 Stolen content harms both creators and the broader platform ecosystem—it reduces original creators’ exposure, amplifies repost accounts, and degrades trust.
 This case study simulates a full content integrity workflow by:
@@ -83,17 +96,6 @@ Policy interventions must balance platform safety and creator economic incentive
 Time-series monitoring is essential to detect model drift early.
 Combining model evaluation + fairness analysis + business tradeoffs results in strong, actionable product recommendations.
 
-
-## 📊 Dashboards Preview
-
-### Dashboard 1 — Detection Quality & Ecosystem Harm
-![Dashboard](https://github.com/rsm-s5gandhi/dot-stolen-content-detection-case-study/raw/3563ce9beeef9ed3ed9044e2fc96ac6f5affd398/Dashboard_1.jpg)
-
-### Dashboard 2 — Creator Fairness & Exposure Tradeoffs
-![Dashboard 3](https://github.com/rsm-s5gandhi/dot-stolen-content-detection-case-study/raw/3563ce9beeef9ed3ed9044e2fc96ac6f5affd398/Dashboard_3.jpg)
-
-### Dashboard 3 — Temporal Trends, Model Drift & CTR Fairness
-![Dashboard 2](https://github.com/rsm-s5gandhi/dot-stolen-content-detection-case-study/raw/3563ce9beeef9ed3ed9044e2fc96ac6f5affd398/Dashboard_2.jpg)
 
 
 ## 📝 Disclaimer
